@@ -1,0 +1,6 @@
+c:\users\abonamx069835\documents\visual studio 2013\Projects\HelloJenkinsWorld\HelloJenkinsWorld\bin\Debug\HelloJenkinsWorld.exe.config
+c:\users\abonamx069835\documents\visual studio 2013\Projects\HelloJenkinsWorld\HelloJenkinsWorld\bin\Debug\HelloJenkinsWorld.exe
+c:\users\abonamx069835\documents\visual studio 2013\Projects\HelloJenkinsWorld\HelloJenkinsWorld\bin\Debug\HelloJenkinsWorld.pdb
+c:\users\abonamx069835\documents\visual studio 2013\Projects\HelloJenkinsWorld\HelloJenkinsWorld\obj\Debug\HelloJenkinsWorld.csprojResolveAssemblyReference.cache
+c:\users\abonamx069835\documents\visual studio 2013\Projects\HelloJenkinsWorld\HelloJenkinsWorld\obj\Debug\HelloJenkinsWorld.exe
+c:\users\abonamx069835\documents\visual studio 2013\Projects\HelloJenkinsWorld\HelloJenkinsWorld\obj\Debug\HelloJenkinsWorld.pdb
